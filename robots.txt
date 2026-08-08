@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-b9tlce.menang123vnd.site/sitemap.xml
